@@ -1,0 +1,7 @@
+pillow
+moviepy
+requests
+whisper
+torch
+ddgs
+numpy
